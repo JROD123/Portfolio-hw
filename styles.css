@@ -1,0 +1,145 @@
+
+.bg-light{
+    background: rgb(255, 255, 255)!important;
+}
+
+.navbar-light .navbar-brand{
+    color: #2673D9;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #2673D9;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.navbar-brand{
+    color: #2673D9;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.navbar-light .navbar-nav .active>.nav-link:hover{
+    text-decoration: underline;
+}
+
+#contactcontent{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-left: 50px;
+    margin-right: -2rem;
+}
+
+.jumbotron {
+    padding: 5rem 2rem;
+    background-repeat: no-repeat;
+    background-color: #262626;
+    margin-bottom: -11rem;
+}
+
+.navbar-brand{
+    color: blue;
+}
+
+body {
+    background-color: #262626;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2px;
+    color:white;
+    font-weight: 400;
+    margin-bottom: -20rem;
+}
+
+.display-3 {
+    font-size: 35px;
+    color: rgb(255, 255, 255)
+}
+
+.container{
+    width: 100%;
+}
+
+#textbackground{
+    background-color: white;
+    border-radius: 1.5rem
+}
+
+#blueheader{
+    color:#2673D9;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    padding-left: 96px;
+}
+
+#listcontent{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-left: 85px
+}
+
+.headericon{
+    padding: 10px;
+}
+
+#content{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-left: 85px
+}
+
+.schoolicon{
+    padding-left: 95px;
+    margin-bottom: 1.5rem
+}
+
+.skillsicon{
+    padding-left: 0px;
+    margin-bottom: 1.5rem
+}
+
+#skillsicon{
+    padding-right: 27px;
+    padding-left: 5px;
+}
+
+#contentrow {
+    margin-top: 0px;
+    margin-bottom: -15px;
+}
+
+#imagepadleft{
+    padding-right: 5px;
+}
+
+#imagepadright{
+    padding-right: -30px;
+}
+
+button:focus {
+    outline: none;
+}
+
+#imgborder{
+    border: 8px solid rgb(240, 240, 240);
+    border-radius: .75rem;
+    margin-right: -1rem;
+    transition: border .25s ease-in-out;
+}
+
+#imgborder:hover{
+    border: 8px solid rgb(38, 115, 217);
+}
+
+#emailcontent{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding-right: 1px;
+}
+
